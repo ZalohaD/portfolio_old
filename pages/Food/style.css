@@ -552,3 +552,7 @@ img{
     column-gap: 7rem;
   }
 }
+.iframe{
+  position: relative;
+  margin-top: 2%;
+}
